@@ -1,0 +1,10 @@
+{
+	"name": "Trigger Checker",
+	"description": "Checks audio of Youtube videos for sensitive topics",
+	"version": "1.0",
+	"manifest_version": 3,
+	"permissions": ["storage", "activeTab", "scripting", "webNavigation"],
+	"action": {
+		"default_popup": "index.html"
+	}
+}
