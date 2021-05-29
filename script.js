@@ -14,5 +14,5 @@ convertBtn.addEventListener('click', () => { //when button pressed
 
 function sendURL(URL) {
 	//navigate popup window to server's download
-    window.location.href = `http://localhost:4000/download?URL=${URL}`;
+    window.location.href = `https://trigger-warner.glitch.me/download?URL=${URL}`;
 }
