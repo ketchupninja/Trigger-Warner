@@ -17,22 +17,34 @@ Team Members:
       3. Abhay Dharia
 
 # What social problem are you working on?
-    We are working on Mental Health Awareness
+    Mental Health and Awareness
 
 # Brief Description of your idea:
-     With the protest for variou social justice issues and remote learning & work our mental health has been
-    thrown out of whack and out of focus as we pay attention to our physical health.
-    The Covid-19 Pandemic can potentially affect your physical health, but it has
-    definitely affected everyone’s mental health. We wanted to remind everyone to
-    take care of their mind as much as they do their bodies. It's the need of the hour
-    to let positivity flow in. So our website aims at providing the people a zone out
-    space from this pandemic and helps them to fill their mind with a surge of positive
-    and enthusiastic thoughts thus turning their mindset into a positive one and
-    helping them recover faster.
+      Our project is a browser extension for Google Chrome that allows a user
+      to see what sensitive topics (e.g. triggers) are contained or mentioned
+      in the audio of a Youtube video, before watching it.
 
 # Technologies we had used in making the project.
-    
+    The ytdl javascript library
+    The symbl.ai NLP API
+    Google Chrome's extension API
 
 # The problem it solves
+      Right now, trigger warnings for sensitive topics online
+      are not always used. A person may encounter their triggers
+      while not emotionally ready, and their mental health would
+      be made worse by this experience.
+      
+      Our project allows a person to have more information available
+      about what sensitive topics a Youtube videos contains, and make
+      informed decisions about when and how to engage with these videos. 
+      
+# Inspiration
+      Inspiration for this project came from the way that many websites
+      incorporate a tag system that allows users to filter and
+      make choices about the content they consume. Youtube
+      does not have a similar feature, and so this project
+      fill in that gap.
+      
 
 
