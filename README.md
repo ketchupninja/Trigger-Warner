@@ -1,6 +1,6 @@
 <h1> HackOn 2.0 </h1>
 
-# Trigger- Warner
+# Trigger - Warner
 
 # Website : #
 # Link of YT Video : #
@@ -9,12 +9,13 @@
       <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
  </p>
 
-Team Details:
-Team Name : TriggerWarner
-Team Members:
-      1. Imran Khan
-      2. Matthew Larson
-      3. Abhay Dharia
+Team Details: <br>
+
+Team Name : TriggerWarner<br>
+Team Members:<br>
+      1. Imran Khan<br>
+      2. Matthew Larson<br>
+      3. Abhay Dharia<br>
 
 # What social problem are you working on?
     Mental Health and Awareness
