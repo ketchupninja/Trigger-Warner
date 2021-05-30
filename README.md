@@ -2,12 +2,7 @@
 
 # Trigger - Warner
 
-# Website : #
 # Link of YT Video : #
-
-<p>
-      <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
- </p>
 
 Team Details: <br>
 
@@ -48,4 +43,5 @@ Team Members:<br>
       fill in that gap.
       
 
-
+# Some of the Trigger Words it will Trace 
+      nine eleven, ableism, abuse, alcoholism, amputation, animal abuse, bestiality, blood, bodies, body horror, bones, bullying, cannibalism, car accident, child abuse,                childbirth, classism, death, dying, decapitation, domestic abuse, drug use, eating disorder, anorexia, binge eating, bulimia, fatphobia, forced captivity, sex, guns,             holocaust, homophobia, hospitalisation, hostages, hunting, insects, incest, kidnapping, medical procedures, murder, nazi, needles, overdose, pedophilia, pregnancy,                prostitution, ptsd, racism, rape, self harm, serious injury, sexism, sexual abuse, skeletons, slavery, slurs, smoking, snakes, spiders, suicide, terminal illness,               terrorism, torture, misgendering, transphobia, violence, vomit, warfare, weapons
