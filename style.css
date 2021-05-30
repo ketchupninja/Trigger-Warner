@@ -20,9 +20,23 @@
 .URL-input:focus {
     border:2px solid #0485ff;
 }
-.convert-button {
+/* .convert-button {
     border-radius:0px 4px 4px 0px;
     border:2px solid #0485ff;
     background: #0485ff;
     color:white;
-}
+} */
+
+.convert-button {
+    background-color: lightblue; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius:4px 4px 4px 4px;
+  }
+  
+  .convert-button:hover {
+    border-radius:4px 4px 4px 4px;
+    background-color: #008CBA;
+    color: white;
+  }
+  
